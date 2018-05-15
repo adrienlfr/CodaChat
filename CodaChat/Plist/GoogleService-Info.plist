@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>200945872596-f9g198c6pt0ghtn3mja7p00k43pl5foj.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.200945872596-f9g198c6pt0ghtn3mja7p00k43pl5foj</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCR1vpQER8ZkR3IAEQAkOakGQ9OFu1pQAo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>200945872596</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>fr.adrienlfr.CodaChat</string>
+	<key>PROJECT_ID</key>
+	<string>codachat-1cdfe</string>
+	<key>STORAGE_BUCKET</key>
+	<string>codachat-1cdfe.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:200945872596:ios:c032e851ad06c418</string>
+	<key>DATABASE_URL</key>
+	<string>https://codachat-1cdfe.firebaseio.com</string>
+</dict>
+</plist>
